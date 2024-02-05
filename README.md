@@ -9,9 +9,11 @@ search/analytics function.
 implemented using PMR.
 
 To perform the project, we need to have enough data, and here we focus on information regarding flights, restaurants in New York, Boston and Seattle .
+
 ● Dataset 1 : Flights and Airport Data
 This dataset contains all the information of the flights and airports of the USA. The airport dataset has airport_id, city, state and name. And the flight dataset has DayofMonth, DayOfWeek, Carrier, OriginAirportID, DestAirportID, DepDelay, ArrDelay. We perform analysis, cleaning, and remove outliers to get out the necessary data which has the information of the airport and the flights in New York.
 Dataset Link : https://www.kaggle.com/datasets/tylerx/flights-and-airports-data
+
 ● Dataset 2 : American Fast Food Restaurants
 This dataset contains all the information of all fast food restaurants in America. It has columns with ID, Address, city, country, name of restaurant, postal code and province.
 Dataset Link : https://www.kaggle.com/datasets/datafiniti/fast-food-restaurants
